@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ED</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="google">Google</string>
+    <string name="or">OR</string>
+    <string name="enter_email_or_phone">Enter Email or Phone</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="textview">TextView</string>
+    <string name="forget_password">forget password?</string>
+    <string name="create_account">Create Account</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="gamil">Gmail</string>
+    <string name="gmail">Gmail</string>
+    <string name="next">Next</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_new_paasword">Enter New Password</string>
+    <string name="re_enter_new_paasword">Re-Enter New Password</string>
+</resources>
