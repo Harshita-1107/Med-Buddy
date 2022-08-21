@@ -20,4 +20,4 @@ If any of the three is not installed, then a one must install them first.
 
 To install Android Studio, click on https://developer.android.com/studio/install and then choose the required option to download the same. To install Java, click on https://www.java.com/en/download/help/windows_manual_download.html and then choose the required option to download.  <br />
 
-Once all of the requirements are fulfilled, then a one can extract the source code and open the folder with Android Studio.
+Once all of the requirements are fulfilled, then a one can extract the source code and open the folder with Android Studio. In Android Studio, connect the app with firebase and then create an Android Virtual Device (AVD) that the emulator can use to install and run the app.
